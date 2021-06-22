@@ -44,7 +44,7 @@
             </a>
           
             <a href="?action=providers"
-                class="block py-2 px-4 mx-2 lg:mx-8 lg:inline-block lg:mt-0 bg-blue-400 rounded hover:text-gray-800">
+                class="block py-2 px-4 mx-2 lg:mx-8 lg:inline-block lg:mt-0 rounded hover:text-blue-300">
                 Providers
              </a>
             <?php if (empty($_SESSION['Active'])) {
@@ -72,7 +72,7 @@
 <footer class="p-6 bg-gray-900 shadow-lg">
     <div>
         <h2 class="text-3xl text-center text-white mt-2">
-            Vive la COGIP !
+            Long live COGIP !
         </h2>
     </div>
     <div class="flex flex-row justify-center ">

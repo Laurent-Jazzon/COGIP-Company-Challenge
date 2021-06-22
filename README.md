@@ -1,26 +1,43 @@
 # PHP-challenge-2
 
-* [Natalia Cherman](https://github.com/nataliacherman08)
-* [Patricia Corduant](https://github.com/Patgit-design)
-* [Adrien Deceulaer](https://github.com/DeceulaerAdrien)
-* [Jazzon Laurent](https://github.com/Laurent-Jazzon)
-* [Olivier Piron](https://github.com/Olivier-BeCode)
+## The web page
+
+[Available soon]()
+
+## Our team
+
+- [Natalia Cherman](https://github.com/nataliacherman08)
+- [Patricia Corduant](https://github.com/Patgit-design)
+- [Adrien Deceulaer](https://github.com/DeceulaerAdrien)
+- [Olivier Piron](https://github.com/Olivier-BeCode)
+- [Jazzon Laurent](https://github.com/Laurent-Jazzon)
 
 
-This Becode challenge consisted in building an administration web app:
+## Objectives
 
+- Creating of an app for a fictional company called COGIP
 - Construction of a functional relational Database
 - Use of a Model–View–Controller pattern and a router
 - Display, edit and delete records from Database (CRUD)
 - Use of a login system, allow access to certain page in regards to permissions
 - Realisation of a modern design
-- More details, [here](https://github.com/DeceulaerAdrien/PHP-challenge-2/blob/Dev/More%20Details.md)
 
-[LIVE DEMO](http://cogip.adriendeceulaer.be/)
+## Users names and passwords
 
-Usernames : Jean-Christian / Muriel
+- Jean-Christian / Ranu
+- Muriel / Perrache
 
-Passwords : Ranu / Perrache
+## Context
+
+- We created this app for our cursus in web developpement at Becode
+
+## The original repo 
+
+[check it here](https://github.com/DeceulaerAdrien/PHP-challenge-2)
+
+![](https://media1.tenor.com/images/091030d75c1b456be3a2f89db2610659/tenor.gif?itemid=7613090)
+
+
 
 
 
