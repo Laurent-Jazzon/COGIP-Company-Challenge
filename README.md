@@ -3,8 +3,8 @@
 * [Natalia Cherman](https://github.com/nataliacherman08)
 * [Patricia Corduant](https://github.com/Patgit-design)
 * [Adrien Deceulaer](https://github.com/DeceulaerAdrien)
-* [Jazzon Laurent](https://github.com/Laurent-Jazzon)
 * [Olivier Piron](https://github.com/Olivier-BeCode)
+* [Jazzon Laurent](https://github.com/Laurent-Jazzon)
 
 
 This Becode challenge consisted in building an administration web app:
@@ -15,8 +15,6 @@ This Becode challenge consisted in building an administration web app:
 - Use of a login system, allow access to certain page in regards to permissions
 - Realisation of a modern design
 - More details, [here](https://github.com/DeceulaerAdrien/PHP-challenge-2/blob/Dev/More%20Details.md)
-
-[LIVE DEMO](http://cogip.adriendeceulaer.be/)
 
 Usernames : Jean-Christian / Muriel
 
